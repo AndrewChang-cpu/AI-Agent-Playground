@@ -4,4 +4,8 @@ langgraph
 python-dotenv
 typing-extensions
 langchain-tavily
+langchain_community
+langchain_experimental
+langchain-ollama
+
 ipython
